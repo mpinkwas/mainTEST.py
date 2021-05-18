@@ -5,3 +5,4 @@ print(areas)
  areas[2, "eating room"]
 print(areas)
 
+Print("hello")
