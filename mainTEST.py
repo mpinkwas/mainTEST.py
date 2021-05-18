@@ -7,3 +7,5 @@ print(areas)
 
 Print("hello")
 print(areas)
+
+
